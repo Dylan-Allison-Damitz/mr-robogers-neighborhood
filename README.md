@@ -1,5 +1,5 @@
-# Mr. Robogers' Neighborhood
-A simple application that replaces the numbers 1, 2, and 3 with various phrase from Mr. Roboger
+# Mr. Roboger's Neighborhood
+A simple application that replaces the numbers 1, 2, and 3 with various phrases from Mr. Roboger
 #### By _**Dylan Allison-Damitz**_
 
 ## Technologies Used

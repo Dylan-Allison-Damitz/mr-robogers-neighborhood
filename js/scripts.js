@@ -21,5 +21,9 @@ $(document).ready(function() {
     const number = $("input#number").val();
     const story = mrRoboger(number);
     $("#output").html(story);
+    $("button").click(function() {
+    $("#output").empty();
+    });
   });
 });
+
